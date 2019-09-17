@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am m4ak3 on github.
+  * I am m4ak3 (https://keybase.io/m4ak3) on keybase.
+  * I have a public key ASCmPJNiTBaFpaaDWQU9rORc9xy0dIdGezeZElAQsKTI8go
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a63c93624c1685a5a68359053dace45cf71cb47487467b3799125010b0a4c8f20a",
+      "host": "keybase.io",
+      "kid": "0120a63c93624c1685a5a68359053dace45cf71cb47487467b3799125010b0a4c8f20a",
+      "uid": "f5482ea8d0c9e2d36e33b588d6e33c19",
+      "username": "m4ak3"
+    },
+    "merkle_root": {
+      "ctime": 1568685844,
+      "hash": "c12a78fb15f193ce1e9707ec845f61627abc071a2283b33a6566a786e9a282723ac58e903c22c62c59a7f801e791bc2e9e82397eab81048df4180376e3bc8288",
+      "hash_meta": "fe233071e8fb7af877140039927b6283a14b0bbcee84feadfe611df8dcffdba3",
+      "seqno": 7499415
+    },
+    "service": {
+      "entropy": "LQKsSKjjeWMd5WGcoGlvwsrl",
+      "name": "github",
+      "username": "m4ak3"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568685854,
+  "expire_in": 504576000,
+  "prev": "1d7d05a403c0a33bc5346b827307c20411a2d38bd729c839b5d7dd642299ca95",
+  "seqno": 12,
+  "tag": "signature"
+}
+```
+
+with the key [ASCmPJNiTBaFpaaDWQU9rORc9xy0dIdGezeZElAQsKTI8go](https://keybase.io/m4ak3), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpjyTYkwWhaWmg1kFPazkXPcctHSHRns3mRJQELCkyPIKp3BheWxvYWTESpcCDMQgHX0FpAPAozvFNGuCcwfCBBGi04vXKcg5tdfdZCKZypXEIIQtAnkI5Riw7yntMU13nSihxvJIu2TPiPOJjtSiX7ulAgHCo3NpZ8RAEdN67DnOKb9mrbJt9mvaaSA5thO7yxrWB8nEw7en18dTEXvEAgCaYlfdTfQ8ivT96Llln3UreIYOpcG52aSaCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC2JCa0kUON7SkdqMlkj1JD4Et8BSbV88Nuz1Mqzbfffo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/m4ak3
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id m4ak3
+```
